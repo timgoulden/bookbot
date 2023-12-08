@@ -1,1 +1,1 @@
-BookBot is my first git project!
+BookBot is used for verification by a Discord channel.
